@@ -1,1 +1,1 @@
-[]
+[{"uid":"316d5c465f286a37","name":"Проверка целостности данных: Каталог -> Корзина","time":{"start":1780181445110,"stop":1780181447247,"duration":2137},"status":"passed","severity":"normal"},{"uid":"e43f02de6cbbfa49","name":"Массовое добавление всех товаров в корзину","time":{"start":1780181442786,"stop":1780181444788,"duration":2002},"status":"failed","severity":"normal"},{"uid":"4cd1192b1b51dad1","name":"Успешный вход и добавление товара в корзину","time":{"start":1780181430344,"stop":1780181442390,"duration":12046},"status":"broken","severity":"normal"}]
