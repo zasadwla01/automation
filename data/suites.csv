@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13951","Успешный вход и добавление товара в корзину","tests","2026-07-25","broken","2026-07-25","","test_shop","",""
+"","2163","Проверка целостности данных: Каталог -> Корзина","tests","2026-07-25","passed","2026-07-25","","test_shop","",""
+"","2079","Массовое добавление всех товаров в корзину","tests","2026-07-25","failed","2026-07-25","","test_shop","",""
